@@ -9,7 +9,7 @@
 
 
 
-####Installation :
+###Installation :
 ```bash
 $ git clone https://github.com/Nirj2004/BLACKPEN.git && cd blackbox && chmod +x install && sudo ./install && cd
 ```
