@@ -35,5 +35,5 @@ $ git clone https://github.com/Nirj2004/BLACKPEN.git && cd blackbox && chmod +x 
 # WORKS ON:
 
 <img width="450" src="https://4vector.com/i/free-vector-linux-tux_081669_linux-tux.png">
-<img width="450" src="https://d1rytvr7gmk1sx.cloudfront.net/wp-content/uploads/2018/02/debianhero.jpg">
+<img width="450" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/640px-Debian-OpenLogo.svg.png">
 <img width="450" src="https://cdn-icons-png.flaticon.com/512/2/2235.png">
