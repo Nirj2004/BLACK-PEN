@@ -1,7 +1,7 @@
 ### BLACKBOx – A Penetration Testing Framework
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-yellow.svg?style=flat-square)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-GPLv2-red.svg?style=flat-square)](https://bitbucket.org/darkeye/blackbox/raw/master/COPYING)
+
 [![Twitter](https://img.shields.io/badge/twitter-@blackeye-blue.svg?style=flat-square)](https://twitter.com/NirjharBiswas5)
 
 #### Password Attacks:
