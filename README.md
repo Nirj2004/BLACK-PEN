@@ -1,9 +1,9 @@
 ### BLACKBOx – A Penetration Testing Framework
 
-[![Python 2.7](https://img.shields.io/badge/python-2.7-yellow.svg?style=flat-square)](https://www.python.org/)
+[![Python 3.10](https://img.shields.io/badge/python-3.10-yellow.svg?style=flat-square)](https://www.python.org/)
 [![License](https://img.shields.io/badge/license-GPLv2-red.svg?style=flat-square)](https://bitbucket.org/darkeye/blackbox/raw/master/COPYING)
-[![Twitter](https://img.shields.io/badge/twitter-@blackeye-blue.svg?style=flat-square)](https://twitter.com/S44DH4T)
-[![Facebook](https://img.shields.io/badge/facebook-@blackeye-blue.svg?style=flat-square)](https://www.facebook.com/S44DH4T)
+[![Twitter](https://img.shields.io/badge/twitter-@blackeye-blue.svg?style=flat-square)](https://twitter.com/NirjharBiswas5)
+
 #### Password Attacks:
 + MD5, SHA1, SHA224, SHA256, SHA384, SHA512, MSSQL2000, MSSQL2005, MYSQL323, MYSQL41, ORACLE11 CRACKER
 
