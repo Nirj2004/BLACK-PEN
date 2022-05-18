@@ -32,7 +32,7 @@ $ git clone https://github.com/Nirj2004/BLACKPEN.git && cd blackbox && chmod +x 
 
 <img width="450" src="https://telecombyte.com/wp-content/uploads/2022/02/bhim-upi-logo.jpg">
 
-# WORKS ON:
+# WORKS ON(Tested platforms):
 
 <img width="450" src="https://4vector.com/i/free-vector-linux-tux_081669_linux-tux.png">
 <img width="450" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Debian-OpenLogo.svg/640px-Debian-OpenLogo.svg.png">
