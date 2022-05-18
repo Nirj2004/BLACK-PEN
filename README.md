@@ -2,7 +2,7 @@
 
 [![Python 3.10](https://img.shields.io/badge/python-3.10-yellow.svg?style=flat-square)](https://www.python.org/)
 
-[![Twitter](https://img.shields.io/badge/twitter-@blackeye-blue.svg?style=flat-square)](https://twitter.com/NirjharBiswas5)
+[![Twitter](https://img.shields.io/badge/twitter-@NirjharBiswas5-blue.svg?style=flat-square)](https://twitter.com/NirjharBiswas5)
 
 # Password Attacks:
 + MD5, SHA1, SHA224, SHA256, SHA384, SHA512, MSSQL2000, MSSQL2005, MYSQL323, MYSQL41, ORACLE11 CRACKER
